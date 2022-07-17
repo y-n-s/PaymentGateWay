@@ -5,4 +5,4 @@ On clicking the donate button, the User will land on the Payment Page where User
 
 ### You can visit my page by clicking below link
 
-https://chandubobbili.github.io/payment-gateway-integration/
+https://y-n-s.github.io/PaymentGateWay/
